@@ -18,11 +18,7 @@
         'main': {
           templateUrl: 'home/home.html',
           controller: 'HomeController as home'
-        },
-        'footer': {
-          templateUrl: 'footer/footer.html',
-          controller: 'FooterController as footer'
-        },
+        }
       }
     };
 
